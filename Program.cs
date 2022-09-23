@@ -31,7 +31,7 @@ namespace LearnCSharp
             //int year = Int16.Parse(Console.ReadLine());
             //Console.WriteLine(year);
             int[] mang = new int[4] { 0, 1, 2, 3};
-            for(int i = 0; i<4; i++)
+            for(int i = 0; i<3; i++)
             {
                 Console.WriteLine(mang[i]);
             }
